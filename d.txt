@@ -1,0 +1,3 @@
+d.txt
+
+This is d.txt on bar branch.
